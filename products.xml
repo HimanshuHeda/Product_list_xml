@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>9.99</price>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Keyboard</name>
+        <price>29.99</price>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Maths</name>
+        <price>19.99</price>
+        <category>Books</category>
+    </product>
+    <!-- Add more products here -->
+</products>
